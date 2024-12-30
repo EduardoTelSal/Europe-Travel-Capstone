@@ -1,8 +1,3 @@
 # Europe-Travel-Website-html-css-js
-Create A Responsive Tour &amp; Travel Agency Website Design Using HTML / CSS / JS
-A Responsive Adventure & Tour Website Design Using HTML CSS  & JavaScript Step By Step
 
-
-# HTML
-# CSS
-# JS
+This was a repository taken from https://github.com/GNiruthian/Europe-Travel-Website-html-css-js for educational purposes in order to test Google Cloud features and deployed using Cloud Run 
